@@ -9,8 +9,7 @@
   "project_page": "http://systemadmin.es",
   "dependencies": [
     {"version_requirement":">= 1.0.0","name":"puppetlabs/stdlib"}
-  ]
-},
+  ],
   "operatingsystem_support": [
     {
       "operatingsystem": "RedHat",
@@ -21,3 +20,4 @@
       "operatingsystemrelease": [ "14.04", "14.10" ]
     }
   ]
+}
