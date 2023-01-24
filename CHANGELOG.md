@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.1.37
+prevent user-specified editor
+
 ## 0.1.36
 
 **INCOMPATBLE CHANGE
